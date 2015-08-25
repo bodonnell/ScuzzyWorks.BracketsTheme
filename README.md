@@ -1,2 +1,2 @@
-Mazune Theme for Brackets
+Scuzzy Works Theme for Brackets
 =====================================
