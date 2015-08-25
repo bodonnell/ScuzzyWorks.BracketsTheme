@@ -1,0 +1,19 @@
+{
+    "title": "Scuzzy Works",
+    "name": "scuzzy-works",
+    "description": "Scuzzy Works Dark Brackets Theme",
+    "version": "1.0.0",
+    "author": "Brad O'Donnell (https://github.com/bodonnell)",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "scuzzyworks.css",
+        "dark": true
+    }
+}
